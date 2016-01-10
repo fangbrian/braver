@@ -11,7 +11,7 @@ app.use(express.static(__dirname + '/public'));
 
 app.use(session({
   cookieName: 'session',
-  secret: 'This_Is_A_Test_String',
+  secret: 'Braver_Session',
   duration: 30 * 60 * 1000,
   activeDuration: 5 * 60 * 1000,
 }));
