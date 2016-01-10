@@ -14,7 +14,6 @@
     font-family: helvetica neue, helvetica;
     color: #000000;
     font-weight: 200;
-    letter-spacing: 4px;
 }
 
 .logo { 
@@ -24,4 +23,42 @@
 
 .tagline { 
     margin-top: 15px;
+    letter-spacing: 4px;
+}
+
+.footer {   
+  position:fixed;
+   left:0px;
+   bottom:0px;
+   height:45px;
+   width:100%;
+   background:#7F8C8D;
+   opacity: 0.8;
+   display:inline-flex;
+}
+
+.footerText { 
+	color:#FFFFFF;
+	margin-top: 15px;
+	margin-left: 12px;
+	letter-spacing: 2px;
+}
+
+.fa { 
+	color:#FFFFFF;
+	font-size: 18px !important;
+}
+
+.instagram { 
+    position: absolute;
+    right: 0;
+    margin-top: 12px;
+    margin-right: 18px;
+}
+
+.facebook { 
+    position: absolute;
+    right: 0;
+    margin-top: 12px;
+    margin-right: 54px;
 }
