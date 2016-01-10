@@ -1,5 +1,5 @@
 .homepage { 
-	background: #000000;
+	background: #FFFFFF;
 	 -webkit-background-size: cover;
 	  -moz-background-size: cover;
 	  -o-background-size: cover;
@@ -10,7 +10,18 @@
 	  text-align: center;
 }
 
+.text { 
+    font-family: helvetica neue, helvetica;
+    color: #000000;
+    font-weight: 200;
+    letter-spacing: 4px;
+}
+
 .logo { 
 	width: 50%;
 	margin-top: 20%;
+}
+
+.tagline { 
+    margin-top: 15px;
 }
