@@ -32,8 +32,7 @@
    bottom:0px;
    height:45px;
    width:100%;
-   background:#7F8C8D;
-   opacity: 0.8;
+   background:rgba(0, 0, 0, 0.8);
    display:inline-flex;
 }
 
