@@ -1,0 +1,26 @@
+{
+  "name": "braver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fangbrian/braver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fangbrian/braver/issues"
+  },
+  "homepage": "https://github.com/fangbrian/braver#readme",
+  "dependencies": {
+  "express": "~4.13.3",
+  "client-sessions": "0.7.0",
+    "url": "0.10.3",
+    "request": "2.56.0",
+    "body-parser": "1.13.1"
+  }
+}
